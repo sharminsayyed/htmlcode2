@@ -1,2 +1,2 @@
 # html code 
-A very simple website using html .
+A very simple website using html.
